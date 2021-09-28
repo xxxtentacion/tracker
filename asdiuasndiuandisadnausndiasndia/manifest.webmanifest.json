@@ -1,0 +1,15 @@
+{
+    "background_color": "black",
+    "description": "XXXTENTACION' Discography Tracker.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icons/nobodys.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "nobodys",
+    "short_name": "nobodys",
+    "start_url": "index.html"
+  }
